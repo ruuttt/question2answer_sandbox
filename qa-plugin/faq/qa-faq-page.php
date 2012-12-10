@@ -200,7 +200,7 @@
 					
 					$points = $optionname != 'points_base' ? (int)$options[$optionname]*$multi : (int)$options[$optionname];
 					
-					if ($points>0 && (strpos($optionname,'max')=== false || $points<10000) ){
+					if ( $points!=0 && $points!=-10000 && $points!=10000 && strpos($optionname,'max')=== false){
 						$table .= '
 		<tr>
 			<td class="qa-form-wide-label">
