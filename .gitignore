@@ -1,4 +1,5 @@
 qa-config.php
+*.bak
 
 ############
 ## Windows
