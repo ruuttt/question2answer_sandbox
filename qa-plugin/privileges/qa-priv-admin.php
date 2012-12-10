@@ -12,7 +12,7 @@
 				case 'priv_title':
 					return 'Privileges';
 				case 'priv_hover':
-					return 'requires # points; you have % of the points required to earn this privilege';
+					return 'requires # points; you have %\% of the points required to earn this privilege';
 				case 'priv_hover_earned':
 					return 'requires # points; you have already earned this privilege';
 				case 'priv_notify_text':
