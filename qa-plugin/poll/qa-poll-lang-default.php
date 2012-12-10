@@ -40,10 +40,10 @@
 		
 		'poll_closed' => 'Poll closed',
 
-		'question_title' => '[poll]',
-		'comments' => '[poll]',
-		'checkbox_text' => 'Create poll',
-		'multiple_text' => 'Allow multiple votes',
+		'question_title' => ' ',
+		'comments' => ' ',
+		'checkbox_text' => ' ',
+		'multiple_text' => ' ',
 		'vote_button' => 'vote',
 		'voted_button' => 'unvote',
 		'cannot_change' => 'You cannot change your vote once you have voted.',
@@ -51,7 +51,7 @@
 		'disabled_button' => 'you are not allowed to vote',
 		'answers_text' => 'Choices:',
 		'page_title' => 'Polls',
-		'choice_count_error' => 'You must enter at least two choices for the poll.',
+		'choice_count_error' => 'You must enter at least two choices for the poll.',
 	);
 
 /*
